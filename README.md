@@ -72,9 +72,9 @@ The course is largely unchanged from the previous edition and the materials (sli
 | 1 | 03/Sep | Machine learning fundamentals | [intro](lectures/intro.pdf), [slides](lectures/week_1.pdf), [extended](lectures/week_1_extended.pdf) |
 | 2 | 10/Sep | Linear models | [slides](lectures/week_2.pdf) |
 | 3 | 17/Sep | Deep learning I | [slides](lectures/week_3.pdf)  |
-| 4 | 24/Sep | Deep learning II | ~~[slides](lectures/week_4.pdf)~~|
-| 5 | 01/Oct | Support vector machines, random forests | ~~[slides](lectures/week_5.pdf)~~ | 
-| 6 | 08/Oct | Unsupervised machine learning | ~~[slides](lectures/week_6.pdf)~~ |
+| 4 | 24/Sep | Deep learning II | [slides](lectures/week_4.pdf)|
+| 5 | 01/Oct | Support vector machines, random forests | [slides](lectures/week_5.pdf) | 
+| 6 | 08/Oct | Unsupervised machine learning | [slides](lectures/week_6.pdf) |
 | 7 | 15/Oct | Transformers, Explainable AI| ~~[slides](lectures/week_7.pdf)~~, ~~[explainable AI slides](lectures/FGrisoni_2023_Guest_XAI.pdf)~~|
 | :small_red_triangle:| 29/Oct | *Exam* | [Example exam](exam.pdf) |
 
@@ -86,9 +86,10 @@ The course is largely unchanged from the previous edition and the materials (sli
 | 2 | 10/Sep | Machine learning fundamentals II|  [exercises](practicals/week_2.ipynb)  |
 | 3 | 17/Sep | Linear models |  [exercises](practicals/week_3.ipynb)  |
 | 4 | 24/Sep | Deep learning I | [exercises](practicals/week_4.ipynb) |
-| 5 | 01/Oct | Deep learning II  | [exercises in **Google Colab**](https://colab.research.google.com/drive/1O-tHiagXjYTXB5Aic92FR9zawJzmZZx9?usp=sharing) |
+| 5 | 01/Oct | Deep learning II  | [exercises in **Google Colab**](https://colab.research.google.com/drive/19Bo20QYsBmjEUZ43rm6SgHWPSo2dDS5e?usp=sharing)
 | 6 | 08/Oct | Support vector machines, random forests | [exercises](practicals/week_6.ipynb) |
 | 7 | 15/Oct | *Catch up week!* :tomato:  | - |
+
 
 # Other course information
 
